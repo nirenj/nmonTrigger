@@ -1,0 +1,1 @@
+nohup /tmp/nmonTrigger.sh > nmon.log &
